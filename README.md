@@ -100,7 +100,7 @@ cv2.waitKey(0)
 ### iv)Access rows and columns
 ![output](./ss4.png)
 ### v)Cut and paste portion of image
-![output](./ss2.png)
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
