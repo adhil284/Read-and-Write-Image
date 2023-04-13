@@ -73,7 +73,7 @@ import cv2
 color_img=cv2.imread('img.jpg',-1)
 tag=color_img[300:400,300:400]
 color_img[50:150,50:150]=tag
-cv2.imshow('212221240028,S.MEENA',color_img)
+cv2.imshow('212220230032,Adhil',color_img)
 cv2.waitKey(0)
 ```
 
